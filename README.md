@@ -25,10 +25,10 @@ Access a demo of the module [here](https://cissee.de/gov4webtreesDemo). Feel fre
 
 ### Download<a name="download"/>
 
-* Current version: 1.7.9.10
+* Current version: 1.7.9.11
 * Based on and tested with webtrees 1.7.9, may also work with older 1.7.x versions.
 * Requires the Hooks module ('hooks_repackaged', or the original Hooks module via webtrees-geneajaubart). Requires the 'personal_facts_with_hooks' module.
-* Download the zipped module, including all required dependencies, [here](https://cissee.de/gov4webtrees/gov4webtrees.1.7.9.10.zip).
+* Download the zipped module, including all required dependencies, [here](https://cissee.de/cissee.webtrees.custom.models.latest.zip).
 * Support, suggestions, feature requests: <ric@richard-cissee.de>
 * Issues also via <https://github.com/ric2016/gov4webtrees/issues>
  
