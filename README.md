@@ -1,5 +1,5 @@
 
-# Webtrees Custom Module: Gov4Webtrees
+# Webtrees Custom Module: ⚶ Gov4Webtrees
 
 This [webtrees](https://www.webtrees.net/) custom module hooks into an extended 'Facts and Events' tab, enhancing events with [GOV](http://gov.genealogy.net) (historic gazetteer) data.
 The project’s website is [cissee.de](https://cissee.de).
@@ -25,7 +25,7 @@ Access a demo of the module [here](https://cissee.de/gov4webtreesDemo). Feel fre
 
 ### Download<a name="download"/>
 
-* Current version: 1.7.9.11
+* Current version: 1.7.9.12
 * Based on and tested with webtrees 1.7.9, may also work with older 1.7.x versions.
 * Requires the Hooks module ('hooks_repackaged', or the original Hooks module via webtrees-geneajaubart). Requires the 'personal_facts_with_hooks' module.
 * Download the zipped module, including all required dependencies, [here](https://cissee.de/cissee.webtrees.custom.models.latest.zip).
@@ -49,7 +49,7 @@ If you use GEDCOM data with _GOV tags for GOV ids, even this step is unnecessary
 ### License<a name="license"/>
 
 * **gov4webtrees: a webtrees custom module**
-* Copyright (C) 2016 to 2017 Richard Cissée
+* Copyright (C) 2016 to 2018 Richard Cissée
 * Derived from **webtrees** - Copyright (C) 2010 to 2016  webtrees development team.
 * Derived from **webtrees-geneajaubart** - Copyright (C) 2009 to 2016  Jonathan Jaubart.
 * Nutzt Daten des [Geschichtlichen Ortsverzeichnisses GOV](http://gov.genealogy.net) des [Vereins für Computergenealogie e. V.](http://compgen.de).
