@@ -25,16 +25,19 @@ Access a demo of the module [here](https://cissee.de/gov4webtreesDemo). Feel fre
 
 ### Download<a name="download"/>
 
-* Current version: 1.7.9.13
+* Current version: 1.7.9.14
 * Based on and tested with webtrees 1.7.9, may also work with older 1.7.x versions.
-* Requires the Hooks module ('hooks_repackaged', or the original Hooks module via webtrees-geneajaubart). Requires the 'personal_facts_with_hooks' module.
-* Download the zipped module, including all required dependencies, [here](https://cissee.de/vesta.latest.zip).
+* Requires the Hooks module ('hooks_repackaged', or the original Hooks module via webtrees-geneajaubart). 
+* Requires the 'vesta_common_lib' module.
+* Displays data via the 'personal_facts_with_hooks' module.
+* Provides location data via hooks.
+* Download the zipped module, including all related modules, [here](https://cissee.de/vesta.latest.zip).
 * Support, suggestions, feature requests: <ric@richard-cissee.de>
 * Issues also via <https://github.com/ric2016/gov4webtrees/issues>
  
 ### Installation<a name="installation"/>
 
-* Unzip the files and copy them to the modules_v3 folder of your webtrees installation. All required modules are included in the zip file. It's safe to overwrite the respective directories if they already exist (they are bundled with other custom modules as well), as long as other custom models using these dependencies are also upgraded to their respective latest versions.
+* Unzip the files and copy them to the modules_v3 folder of your webtrees installation. All related modules are included in the zip file. It's safe to overwrite the respective directories if they already exist (they are bundled with other custom modules as well), as long as other custom models using these dependencies are also upgraded to their respective latest versions.
 * Enable the extended 'Facts and Events' module via Control Panel -> Modules -> Module Administration -> Facts and Events.
 * Enable the main module via Control Panel -> Modules -> Module Administration -> Gov4Webtrees. After that, you may configure some options.
 * Enable the Hooks module via Control Panel -> Modules -> Module Administration -> Hooks. Make sure all hooks are selected (in the preferences of the Hooks module).				
