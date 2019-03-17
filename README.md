@@ -4,6 +4,8 @@
 This [webtrees](https://www.webtrees.net/) custom module hooks into an extended 'Facts and Events' tab, enhancing events with [GOV](http://gov.genealogy.net) (historic gazetteer) data.
 The project’s website is [cissee.de](https://cissee.de).
 
+This is a webtrees 1.x module - It cannot be used with webtrees 2.x. For its webtrees 2.x counterpart, see [here](https://github.com/vesta-webtrees-2-custom-modules/vesta_gov4webtrees).
+
 ## Contents
 
 * [Features](#features)
@@ -25,15 +27,15 @@ Access a demo of the module [here](https://cissee.de/gov4webtreesDemo). Feel fre
 
 ### Download<a name="download"/>
 
-* Current version: 1.7.10.1
-* Based on and tested with webtrees 1.7.10, may also work with older 1.7.x versions.
+* Current version: 1.7.13.1
+* Based on and tested with webtrees 1.7.13, may also work with older 1.7.x versions.
 * Requires the Hooks module ('hooks_repackaged', or the original Hooks module via webtrees-geneajaubart). 
 * Requires the 'vesta_common_lib' module.
 * Displays data via the 'personal_facts_with_hooks' module.
 * Provides location data via hooks.
 * Download the zipped module, including all related modules, [here](https://cissee.de/vesta.latest.zip).
 * Support, suggestions, feature requests: <ric@richard-cissee.de>
-* Issues also via <https://github.com/ric2016/gov4webtrees/issues>
+* Issues also via <https://github.com/ric2016/gov4webtrees/issues>. Note that new features will only be implemented in the 2.x versions though.
  
 ### Installation<a name="installation"/>
 
@@ -52,7 +54,7 @@ If you use GEDCOM data with _GOV tags for GOV ids, even this step is unnecessary
 ### License<a name="license"/>
 
 * **gov4webtrees: a webtrees custom module**
-* Copyright (C) 2016 to 2018 Richard Cissée
+* Copyright (C) 2016 to 2019 Richard Cissée
 * Derived from **webtrees** - Copyright (C) 2010 to 2016  webtrees development team.
 * Derived from **webtrees-geneajaubart** - Copyright (C) 2009 to 2016  Jonathan Jaubart.
 * Nutzt Daten des [Geschichtlichen Ortsverzeichnisses GOV](http://gov.genealogy.net) des [Vereins für Computergenealogie e. V.](http://compgen.de).
