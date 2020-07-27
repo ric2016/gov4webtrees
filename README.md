@@ -33,7 +33,7 @@ Access a demo of the module [here](https://cissee.de/gov4webtreesDemo). Feel fre
 * Requires the 'vesta_common_lib' module.
 * Displays data via the 'personal_facts_with_hooks' module.
 * Provides location data via hooks.
-* Download the zipped module, including all related modules, [here](https://cissee.de/vesta.latest.zip).
+* Download the zipped module, including all related modules, [here](https://cissee.de/vesta.legacy.zip).
 * Support, suggestions, feature requests: <ric@richard-cissee.de>
 * Issues also via <https://github.com/ric2016/gov4webtrees/issues>
  
